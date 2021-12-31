@@ -1,0 +1,11 @@
+indir: /home/te4p0t/Desktop/image_impainting/lama/test_img
+outdir: /home/te4p0t/Desktop/image_impainting/lama/test_output
+model:
+  path: /home/te4p0t/Desktop/image_impainting/lama/big-lama
+  checkpoint: best.ckpt
+dataset:
+  kind: default
+  img_suffix: .png
+  pad_out_to_modulo: 8
+device: cuda
+out_key: inpainted

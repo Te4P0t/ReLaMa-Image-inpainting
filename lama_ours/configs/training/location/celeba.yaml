@@ -1,0 +1,5 @@
+# @package _group_
+data_root_dir: /home/te4p0t/Desktop/image_impainting/lama/celeba-hq-dataset/
+out_root_dir: /home/te4p0t/Desktop/image_impainting/lama/experiments/
+tb_dir: /home/te4p0t/Desktop/image_impainting/lama/tb_logs/
+pretrained_models: /home/te4p0t/Desktop/image_impainting/lama/

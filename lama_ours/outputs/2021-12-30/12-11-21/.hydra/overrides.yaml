@@ -1,0 +1,3 @@
+- model.path=/home/te4p0t/Desktop/image_impainting/lama/big-lama
+- indir=/home/te4p0t/Desktop/image_impainting/lama/test_img
+- outdir=/home/te4p0t/Desktop/image_impainting/lama/test_output
