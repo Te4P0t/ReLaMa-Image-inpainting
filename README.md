@@ -1,6 +1,8 @@
 # LaMa-Image-Inpainting
 Final Project for CV
 
+视频展示 [ReLaMa-Image-inpainting：one cv final project_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tY41187ET)
+
 github仓库 [Te4P0t/ReLaMa-Image-inpainting(github.com)](https://github.com/Te4P0t/ReLaMa-Image-inpainting)
 
 gitee仓库 [ReLaMa-Image-inpainting(gitee.com)](https://gitee.com/Te4P0t/ReLaMa-Image-inpainting)

@@ -311,13 +311,17 @@ class FFCSpatialAttention(nn.Module):
 
 以下是我们训练的模型得到的效果：
 
+![9](https://te4p0t.github.io/assets/images/typora-user-images/202201021954126.png)
+
+![image-20220102195423880](https://te4p0t.github.io/assets/images/typora-user-images/202201021954972.png)
+
 ![image-20211231142018358](https://te4p0t.github.io/assets/images/typora-user-images/image-20211231142018358.png)
 
 ![image-20211231142102228](https://te4p0t.github.io/assets/images/typora-user-images/image-20211231142102228.png)
 
 ![image-20211231142221279](https://te4p0t.github.io/assets/images/typora-user-images/image-20211231142221279.png)
 
-以上是我们训练的模型在第6个epoch结束后，在test数据集（未训练）上做的结果，左图是原图（ground truth），图中连通域是mask区域，右图是最终修复的结果。
+以上是我们训练的模型在第6个epoch结束后，在test数据集（未训练）上做的结果，第一列是原图（ground truth），图中连通域是mask区域，第二列和第五列是最终修复的结果。
 
 可以看出模型在人脸修复上能够达到不错的效果，尽管放大后细节部位仍能看出和未遮挡区域不协调的部分（尤其是在一只眼睛遮挡，另一只未遮挡的情况下，模型无法恢复出较对称的图形，因此看上去不协调）。
 
