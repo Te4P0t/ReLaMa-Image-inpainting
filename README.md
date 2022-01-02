@@ -1,6 +1,24 @@
 # LaMa-Image-Inpainting
 Final Project for CV
 
+如遇任何问题，请联系qq 1093859119
+
+项目交流群 610266778
+
+## 文件目录
+
+```testimg```测试的图片
+
+```test_out```测试结果
+
+```project-report.md / project-report.pdf```项目报告
+
+```proposal.md```选题报告
+
+```environment.yml```conda环境
+
+```requirements.txt```python依赖包
+
 ## 环境配置（for Linux）
 
 tips:该环境是运行项目内所有方法的充分非必要条件。
@@ -15,6 +33,10 @@ conda activate relama
 conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch -y
 pip install -r requirement.txt
 ```
+
+我们训练的参数配置、日志、模型及测试图
+
+https://pan.baidu.com/s/13AaZlRS4zmMbQn0JvyVGFg  提取码：o7nw
 
 ## 测试
 
