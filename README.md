@@ -1,6 +1,12 @@
 # LaMa-Image-Inpainting
 Final Project for CV
 
+项目成员：谢雨成、刘源、夏鸿
+
+github仓库 [Te4P0t/ReLaMa-Image-inpainting(github.com)](https://github.com/Te4P0t/ReLaMa-Image-inpainting)
+
+gitee仓库 [ReLaMa-Image-inpainting(gitee.com)](https://gitee.com/Te4P0t/ReLaMa-Image-inpainting)
+
 如遇任何问题，请联系qq 1093859119
 
 项目交流群 610266778
